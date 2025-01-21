@@ -1,0 +1,19 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+pyvenv.cfg
+
+# Docker-specific
+*.container
+*.image
+
+# Python build
+*.egg-info/
+dist/
+build/
+
+# Cache files
+*.cache
